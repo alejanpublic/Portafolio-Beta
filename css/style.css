@@ -15,11 +15,12 @@ html{
 }
 
 #inicio {
-    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url('/img/fondo-inicio.jpg');
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url('https://images.pexels.com/photos/2301177/pexels-photo-2301177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-size: cover;
     background-position: center center;
     height: 100vh;
 }
+
 
 #inicio .contenido header{
     background-color: rgba(0, 0, 0, .8);
@@ -290,7 +291,7 @@ html{
 /** seccion skill habilidades */
 
 .contenedor-skills{
-    background: linear-gradient(#6764a4, rgba(33,16,16,.8)), url("/img/fondo-skills.jpg");
+    background: linear-gradient(#6764a4, rgba(33,16,16,.8)), url("https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
